@@ -12,5 +12,5 @@
 ! [LINK PARA PÁGINA] ([LINK](https://g1.globo.com/)
 
 ```bash
-AAAAAAAAAAAAA
+COPIA-ME
 ````
